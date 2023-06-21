@@ -34,7 +34,9 @@ La etapa de EDA puede encontrarse en el siguiente [Link](https://github.com/RoNo
 
 ## 5. Dashboard <a name="dash"></a>
 
-En el siguiente [Link](https://github.com/RoNovau/MOOC/blob/main/Dashboard/Dashboard%20Udemy.pbix) puede verse el Dashboard realizado
+En el siguiente [Link](https://github.com/RoNovau/MOOC/blob/main/Dashboard/Dashboard%20Udemy.pbix) puede verse el Dashboard realizado, y debajo puede observarse una imagen a título ilustrativo: 
+
+![Dashboard](https://github.com/RoNovau/MOOC/blob/main/assets/Dashboard_img.jpeg)
 
 En él se pueden observar las métricas y KPI planteados:
 
