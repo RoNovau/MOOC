@@ -17,24 +17,24 @@ El siguiente proyecto es parte de las practicas de la academia SoyHenry y consta
 
 ## 2. Flujo de trabajo <a name="workflow"></a>
 
-El workflow del proyecto consta de un mínimo proceso de ETL, sobre todo de extracción de datos, creación de variables nuevas y webscrapping para la recolección de datos faltantes. Luego, sigue la etapa de EDA (Analisis Exploratorio de Datos), en la cual se analiza con mayor detalle la información, buscando cruzar variables importantes con el fin de generar nueva información. Ambos procesos fueron realizados en el siguiente notebook de Python. Por último, con la nueva información obtenida y un crecimiento en el conocimiento del negocio y la temática, se creó un dashboard en PowerBI que sintetice las conclusiones mas pertinentes y permita mostrar los KPI indicados. 
+El workflow del proyecto consta de un mínimo proceso de ETL, sobre todo de extracción de datos, creación de variables nuevas y webscrapping para la recolección de datos faltantes. Luego, sigue la etapa de EDA (Analisis Exploratorio de Datos), en la cual se analiza con mayor detalle la información, buscando cruzar variables importantes con el fin de generar nueva información. Por último, con la nueva información obtenida y un crecimiento en el conocimiento del negocio y la temática, se creó un dashboard en PowerBI que sintetiza las conclusiones mas pertinentes y permite mostrar los KPI elegidos. 
 
 ## 3. Contenido del Repositorio <a name="con"></a>
 
 El repositorio cuenta con:
 
-+ **eda.ipynb**: notebook donde se realizó el EDA
++ **EDA.ipynb**: notebook donde se realizó el EDA
 + **Datasets**: carpeta que contiene los CSV con los que se realizo el proyecto
 + **Dashboard**: carpeta que contiene el dashboard creado en PowerBI
-+ **dashboard_udemy.pbix**: Interactive dashboard in Power Bi.
++ **Dashboard Udemy.pbix**: dashboard interactivo
 
 ## 4. Análisis Exploratorio de Datos (EDA). <a name="eda"></a>
 
-La etapa de EDA puede encontrarse en el siguiente [Link](/[EDA.ipynb]).
+La etapa de EDA puede encontrarse en el siguiente [Link](https://github.com/RoNovau/MOOC/blob/main/EDA.ipynb).
 
 ## 5. Dashboard <a name="dash"></a>
 
-En el siguiente [Link](https://github.com/RoNovau/MOOC/blob/main/Dashboard/Dashboard%20Udemy.pbix)) puede verse el Dashboard realizado
+En el siguiente [Link](https://github.com/RoNovau/MOOC/blob/main/Dashboard/Dashboard%20Udemy.pbix) puede verse el Dashboard realizado
 
 En él se pueden observar las métricas y KPI planteados:
 
